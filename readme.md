@@ -42,6 +42,7 @@ This project includes analysis on:
 * Venue-wise match analysis
 * Highest winning margin
 * Highest individual score
+* Which team has highest score in ipl 2022
 
 ---
 
